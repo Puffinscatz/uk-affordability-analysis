@@ -1,0 +1,1860 @@
+time_period,area_name,median_monthly_pay
+2014-07-01,North East,1524
+2014-08-01,North East,1527
+2014-09-01,North East,1528
+2014-10-01,North East,1533
+2014-11-01,North East,1536
+2014-12-01,North East,1547
+2015-01-01,North East,1542
+2015-02-01,North East,1540
+2015-03-01,North East,1537
+2015-04-01,North East,1532
+2015-05-01,North East,1534
+2015-06-01,North East,1533
+2015-07-01,North East,1536
+2015-08-01,North East,1535
+2015-09-01,North East,1537
+2015-10-01,North East,1541
+2015-11-01,North East,1543
+2015-12-01,North East,1542
+2016-01-01,North East,1547
+2016-02-01,North East,1548
+2016-03-01,North East,1552
+2016-04-01,North East,1563
+2016-05-01,North East,1559
+2016-06-01,North East,1566
+2016-07-01,North East,1568
+2016-08-01,North East,1569
+2016-09-01,North East,1571
+2016-10-01,North East,1572
+2016-11-01,North East,1572
+2016-12-01,North East,1577
+2017-01-01,North East,1575
+2017-02-01,North East,1581
+2017-03-01,North East,1588
+2017-04-01,North East,1592
+2017-05-01,North East,1595
+2017-06-01,North East,1597
+2017-07-01,North East,1600
+2017-08-01,North East,1605
+2017-09-01,North East,1607
+2017-10-01,North East,1611
+2017-11-01,North East,1615
+2017-12-01,North East,1624
+2018-01-01,North East,1626
+2018-02-01,North East,1631
+2018-03-01,North East,1632
+2018-04-01,North East,1636
+2018-05-01,North East,1646
+2018-06-01,North East,1651
+2018-07-01,North East,1655
+2018-08-01,North East,1685
+2018-09-01,North East,1662
+2018-10-01,North East,1667
+2018-11-01,North East,1674
+2018-12-01,North East,1673
+2019-01-01,North East,1681
+2019-02-01,North East,1684
+2019-03-01,North East,1692
+2019-04-01,North East,1705
+2019-05-01,North East,1700
+2019-06-01,North East,1701
+2019-07-01,North East,1709
+2019-08-01,North East,1719
+2019-09-01,North East,1707
+2019-10-01,North East,1719
+2019-11-01,North East,1722
+2019-12-01,North East,1730
+2020-01-01,North East,1736
+2020-02-01,North East,1746
+2020-03-01,North East,1728
+2020-04-01,North East,1689
+2020-05-01,North East,1701
+2020-06-01,North East,1727
+2020-07-01,North East,1761
+2020-08-01,North East,1777
+2020-09-01,North East,1785
+2020-10-01,North East,1793
+2020-11-01,North East,1793
+2020-12-01,North East,1801
+2021-01-01,North East,1811
+2021-02-01,North East,1813
+2021-03-01,North East,1823
+2021-04-01,North East,1829
+2021-05-01,North East,1831
+2021-06-01,North East,1840
+2021-07-01,North East,1848
+2021-08-01,North East,1855
+2021-09-01,North East,1863
+2021-10-01,North East,1868
+2021-11-01,North East,1857
+2021-12-01,North East,1897
+2022-01-01,North East,1900
+2022-02-01,North East,1917
+2022-03-01,North East,1949
+2022-04-01,North East,1934
+2022-05-01,North East,1941
+2022-06-01,North East,1951
+2022-07-01,North East,1970
+2022-08-01,North East,1985
+2022-09-01,North East,2015
+2022-10-01,North East,2020
+2022-11-01,North East,2057
+2022-12-01,North East,2052
+2023-01-01,North East,2054
+2023-02-01,North East,2061
+2023-03-01,North East,2072
+2023-04-01,North East,2086
+2023-05-01,North East,2110
+2023-06-01,North East,2181
+2023-07-01,North East,2136
+2023-08-01,North East,2139
+2023-09-01,North East,2134
+2023-10-01,North East,2143
+2023-11-01,North East,2176
+2023-12-01,North East,2190
+2024-01-01,North East,2196
+2024-02-01,North East,2208
+2024-03-01,North East,2222
+2024-04-01,North East,2235
+2024-05-01,North East,2246
+2024-06-01,North East,2250
+2024-07-01,North East,2261
+2024-08-01,North East,2270
+2024-09-01,North East,2266
+2024-10-01,North East,2333
+2024-11-01,North East,2322
+2024-12-01,North East,2323
+2025-01-01,North East,2333
+2025-02-01,North East,2341
+2025-03-01,North East,2348
+2025-04-01,North East,2362
+2025-05-01,North East,2372
+2025-06-01,North East,2382
+2025-07-01,North East,2397
+2025-08-01,North East,2442
+2025-09-01,North East,2415
+2025-10-01,North East,2414
+2025-11-01,North East,2374
+2025-12-01,North East,2425
+2026-01-01,North East,2445
+2026-02-01,North East,2457
+2026-03-01,North East,2473
+2026-04-01,North East,2480
+2026-05-01,North East,2486
+2014-07-01,North West,1512
+2014-08-01,North West,1513
+2014-09-01,North West,1516
+2014-10-01,North West,1514
+2014-11-01,North West,1523
+2014-12-01,North West,1527
+2015-01-01,North West,1529
+2015-02-01,North West,1534
+2015-03-01,North West,1529
+2015-04-01,North West,1523
+2015-05-01,North West,1523
+2015-06-01,North West,1524
+2015-07-01,North West,1523
+2015-08-01,North West,1527
+2015-09-01,North West,1528
+2015-10-01,North West,1531
+2015-11-01,North West,1537
+2015-12-01,North West,1532
+2016-01-01,North West,1545
+2016-02-01,North West,1549
+2016-03-01,North West,1554
+2016-04-01,North West,1559
+2016-05-01,North West,1561
+2016-06-01,North West,1565
+2016-07-01,North West,1566
+2016-08-01,North West,1566
+2016-09-01,North West,1571
+2016-10-01,North West,1573
+2016-11-01,North West,1574
+2016-12-01,North West,1578
+2017-01-01,North West,1579
+2017-02-01,North West,1583
+2017-03-01,North West,1588
+2017-04-01,North West,1599
+2017-05-01,North West,1602
+2017-06-01,North West,1604
+2017-07-01,North West,1607
+2017-08-01,North West,1608
+2017-09-01,North West,1611
+2017-10-01,North West,1620
+2017-11-01,North West,1621
+2017-12-01,North West,1626
+2018-01-01,North West,1631
+2018-02-01,North West,1637
+2018-03-01,North West,1642
+2018-04-01,North West,1646
+2018-05-01,North West,1657
+2018-06-01,North West,1662
+2018-07-01,North West,1670
+2018-08-01,North West,1684
+2018-09-01,North West,1673
+2018-10-01,North West,1676
+2018-11-01,North West,1686
+2018-12-01,North West,1684
+2019-01-01,North West,1691
+2019-02-01,North West,1697
+2019-03-01,North West,1702
+2019-04-01,North West,1714
+2019-05-01,North West,1716
+2019-06-01,North West,1721
+2019-07-01,North West,1725
+2019-08-01,North West,1727
+2019-09-01,North West,1728
+2019-10-01,North West,1731
+2019-11-01,North West,1733
+2019-12-01,North West,1744
+2020-01-01,North West,1747
+2020-02-01,North West,1761
+2020-03-01,North West,1749
+2020-04-01,North West,1707
+2020-05-01,North West,1718
+2020-06-01,North West,1744
+2020-07-01,North West,1772
+2020-08-01,North West,1792
+2020-09-01,North West,1805
+2020-10-01,North West,1813
+2020-11-01,North West,1820
+2020-12-01,North West,1827
+2021-01-01,North West,1831
+2021-02-01,North West,1839
+2021-03-01,North West,1847
+2021-04-01,North West,1853
+2021-05-01,North West,1858
+2021-06-01,North West,1861
+2021-07-01,North West,1864
+2021-08-01,North West,1880
+2021-09-01,North West,1895
+2021-10-01,North West,1896
+2021-11-01,North West,1896
+2021-12-01,North West,1906
+2022-01-01,North West,1928
+2022-02-01,North West,1945
+2022-03-01,North West,1962
+2022-04-01,North West,1959
+2022-05-01,North West,1974
+2022-06-01,North West,1982
+2022-07-01,North West,1992
+2022-08-01,North West,2008
+2022-09-01,North West,2036
+2022-10-01,North West,2044
+2022-11-01,North West,2085
+2022-12-01,North West,2071
+2023-01-01,North West,2082
+2023-02-01,North West,2083
+2023-03-01,North West,2092
+2023-04-01,North West,2114
+2023-05-01,North West,2141
+2023-06-01,North West,2190
+2023-07-01,North West,2162
+2023-08-01,North West,2159
+2023-09-01,North West,2159
+2023-10-01,North West,2180
+2023-11-01,North West,2211
+2023-12-01,North West,2219
+2024-01-01,North West,2218
+2024-02-01,North West,2228
+2024-03-01,North West,2240
+2024-04-01,North West,2265
+2024-05-01,North West,2270
+2024-06-01,North West,2281
+2024-07-01,North West,2288
+2024-08-01,North West,2294
+2024-09-01,North West,2304
+2024-10-01,North West,2368
+2024-11-01,North West,2359
+2024-12-01,North West,2347
+2025-01-01,North West,2357
+2025-02-01,North West,2374
+2025-03-01,North West,2383
+2025-04-01,North West,2391
+2025-05-01,North West,2398
+2025-06-01,North West,2410
+2025-07-01,North West,2427
+2025-08-01,North West,2461
+2025-09-01,North West,2447
+2025-10-01,North West,2446
+2025-11-01,North West,2443
+2025-12-01,North West,2457
+2026-01-01,North West,2476
+2026-02-01,North West,2492
+2026-03-01,North West,2507
+2026-04-01,North West,2516
+2026-05-01,North West,2521
+2014-07-01,Yorkshire and The Humber,1493
+2014-08-01,Yorkshire and The Humber,1496
+2014-09-01,Yorkshire and The Humber,1497
+2014-10-01,Yorkshire and The Humber,1502
+2014-11-01,Yorkshire and The Humber,1507
+2014-12-01,Yorkshire and The Humber,1509
+2015-01-01,Yorkshire and The Humber,1513
+2015-02-01,Yorkshire and The Humber,1518
+2015-03-01,Yorkshire and The Humber,1518
+2015-04-01,Yorkshire and The Humber,1514
+2015-05-01,Yorkshire and The Humber,1516
+2015-06-01,Yorkshire and The Humber,1516
+2015-07-01,Yorkshire and The Humber,1517
+2015-08-01,Yorkshire and The Humber,1514
+2015-09-01,Yorkshire and The Humber,1516
+2015-10-01,Yorkshire and The Humber,1521
+2015-11-01,Yorkshire and The Humber,1521
+2015-12-01,Yorkshire and The Humber,1523
+2016-01-01,Yorkshire and The Humber,1532
+2016-02-01,Yorkshire and The Humber,1531
+2016-03-01,Yorkshire and The Humber,1536
+2016-04-01,Yorkshire and The Humber,1540
+2016-05-01,Yorkshire and The Humber,1538
+2016-06-01,Yorkshire and The Humber,1542
+2016-07-01,Yorkshire and The Humber,1547
+2016-08-01,Yorkshire and The Humber,1547
+2016-09-01,Yorkshire and The Humber,1550
+2016-10-01,Yorkshire and The Humber,1552
+2016-11-01,Yorkshire and The Humber,1553
+2016-12-01,Yorkshire and The Humber,1559
+2017-01-01,Yorkshire and The Humber,1552
+2017-02-01,Yorkshire and The Humber,1559
+2017-03-01,Yorkshire and The Humber,1570
+2017-04-01,Yorkshire and The Humber,1572
+2017-05-01,Yorkshire and The Humber,1579
+2017-06-01,Yorkshire and The Humber,1582
+2017-07-01,Yorkshire and The Humber,1583
+2017-08-01,Yorkshire and The Humber,1588
+2017-09-01,Yorkshire and The Humber,1592
+2017-10-01,Yorkshire and The Humber,1596
+2017-11-01,Yorkshire and The Humber,1602
+2017-12-01,Yorkshire and The Humber,1608
+2018-01-01,Yorkshire and The Humber,1608
+2018-02-01,Yorkshire and The Humber,1611
+2018-03-01,Yorkshire and The Humber,1610
+2018-04-01,Yorkshire and The Humber,1611
+2018-05-01,Yorkshire and The Humber,1633
+2018-06-01,Yorkshire and The Humber,1639
+2018-07-01,Yorkshire and The Humber,1642
+2018-08-01,Yorkshire and The Humber,1661
+2018-09-01,Yorkshire and The Humber,1640
+2018-10-01,Yorkshire and The Humber,1648
+2018-11-01,Yorkshire and The Humber,1661
+2018-12-01,Yorkshire and The Humber,1654
+2019-01-01,Yorkshire and The Humber,1665
+2019-02-01,Yorkshire and The Humber,1669
+2019-03-01,Yorkshire and The Humber,1679
+2019-04-01,Yorkshire and The Humber,1690
+2019-05-01,Yorkshire and The Humber,1687
+2019-06-01,Yorkshire and The Humber,1689
+2019-07-01,Yorkshire and The Humber,1695
+2019-08-01,Yorkshire and The Humber,1697
+2019-09-01,Yorkshire and The Humber,1688
+2019-10-01,Yorkshire and The Humber,1702
+2019-11-01,Yorkshire and The Humber,1705
+2019-12-01,Yorkshire and The Humber,1712
+2020-01-01,Yorkshire and The Humber,1717
+2020-02-01,Yorkshire and The Humber,1727
+2020-03-01,Yorkshire and The Humber,1715
+2020-04-01,Yorkshire and The Humber,1681
+2020-05-01,Yorkshire and The Humber,1686
+2020-06-01,Yorkshire and The Humber,1713
+2020-07-01,Yorkshire and The Humber,1746
+2020-08-01,Yorkshire and The Humber,1764
+2020-09-01,Yorkshire and The Humber,1778
+2020-10-01,Yorkshire and The Humber,1787
+2020-11-01,Yorkshire and The Humber,1784
+2020-12-01,Yorkshire and The Humber,1794
+2021-01-01,Yorkshire and The Humber,1802
+2021-02-01,Yorkshire and The Humber,1806
+2021-03-01,Yorkshire and The Humber,1816
+2021-04-01,Yorkshire and The Humber,1822
+2021-05-01,Yorkshire and The Humber,1821
+2021-06-01,Yorkshire and The Humber,1830
+2021-07-01,Yorkshire and The Humber,1840
+2021-08-01,Yorkshire and The Humber,1845
+2021-09-01,Yorkshire and The Humber,1866
+2021-10-01,Yorkshire and The Humber,1869
+2021-11-01,Yorkshire and The Humber,1869
+2021-12-01,Yorkshire and The Humber,1887
+2022-01-01,Yorkshire and The Humber,1898
+2022-02-01,Yorkshire and The Humber,1911
+2022-03-01,Yorkshire and The Humber,1925
+2022-04-01,Yorkshire and The Humber,1924
+2022-05-01,Yorkshire and The Humber,1934
+2022-06-01,Yorkshire and The Humber,1946
+2022-07-01,Yorkshire and The Humber,1958
+2022-08-01,Yorkshire and The Humber,1977
+2022-09-01,Yorkshire and The Humber,2015
+2022-10-01,Yorkshire and The Humber,2008
+2022-11-01,Yorkshire and The Humber,2036
+2022-12-01,Yorkshire and The Humber,2038
+2023-01-01,Yorkshire and The Humber,2043
+2023-02-01,Yorkshire and The Humber,2051
+2023-03-01,Yorkshire and The Humber,2056
+2023-04-01,Yorkshire and The Humber,2074
+2023-05-01,Yorkshire and The Humber,2098
+2023-06-01,Yorkshire and The Humber,2154
+2023-07-01,Yorkshire and The Humber,2116
+2023-08-01,Yorkshire and The Humber,2116
+2023-09-01,Yorkshire and The Humber,2118
+2023-10-01,Yorkshire and The Humber,2129
+2023-11-01,Yorkshire and The Humber,2164
+2023-12-01,Yorkshire and The Humber,2170
+2024-01-01,Yorkshire and The Humber,2174
+2024-02-01,Yorkshire and The Humber,2187
+2024-03-01,Yorkshire and The Humber,2200
+2024-04-01,Yorkshire and The Humber,2213
+2024-05-01,Yorkshire and The Humber,2227
+2024-06-01,Yorkshire and The Humber,2229
+2024-07-01,Yorkshire and The Humber,2243
+2024-08-01,Yorkshire and The Humber,2252
+2024-09-01,Yorkshire and The Humber,2255
+2024-10-01,Yorkshire and The Humber,2309
+2024-11-01,Yorkshire and The Humber,2301
+2024-12-01,Yorkshire and The Humber,2297
+2025-01-01,Yorkshire and The Humber,2309
+2025-02-01,Yorkshire and The Humber,2315
+2025-03-01,Yorkshire and The Humber,2326
+2025-04-01,Yorkshire and The Humber,2346
+2025-05-01,Yorkshire and The Humber,2356
+2025-06-01,Yorkshire and The Humber,2362
+2025-07-01,Yorkshire and The Humber,2382
+2025-08-01,Yorkshire and The Humber,2411
+2025-09-01,Yorkshire and The Humber,2395
+2025-10-01,Yorkshire and The Humber,2399
+2025-11-01,Yorkshire and The Humber,2375
+2025-12-01,Yorkshire and The Humber,2407
+2026-01-01,Yorkshire and The Humber,2428
+2026-02-01,Yorkshire and The Humber,2443
+2026-03-01,Yorkshire and The Humber,2454
+2026-04-01,Yorkshire and The Humber,2467
+2026-05-01,Yorkshire and The Humber,2467
+2014-07-01,East Midlands,1510
+2014-08-01,East Midlands,1511
+2014-09-01,East Midlands,1513
+2014-10-01,East Midlands,1515
+2014-11-01,East Midlands,1521
+2014-12-01,East Midlands,1525
+2015-01-01,East Midlands,1526
+2015-02-01,East Midlands,1533
+2015-03-01,East Midlands,1526
+2015-04-01,East Midlands,1521
+2015-05-01,East Midlands,1521
+2015-06-01,East Midlands,1522
+2015-07-01,East Midlands,1523
+2015-08-01,East Midlands,1527
+2015-09-01,East Midlands,1527
+2015-10-01,East Midlands,1529
+2015-11-01,East Midlands,1535
+2015-12-01,East Midlands,1534
+2016-01-01,East Midlands,1544
+2016-02-01,East Midlands,1548
+2016-03-01,East Midlands,1550
+2016-04-01,East Midlands,1556
+2016-05-01,East Midlands,1557
+2016-06-01,East Midlands,1560
+2016-07-01,East Midlands,1564
+2016-08-01,East Midlands,1563
+2016-09-01,East Midlands,1566
+2016-10-01,East Midlands,1571
+2016-11-01,East Midlands,1568
+2016-12-01,East Midlands,1572
+2017-01-01,East Midlands,1571
+2017-02-01,East Midlands,1579
+2017-03-01,East Midlands,1587
+2017-04-01,East Midlands,1597
+2017-05-01,East Midlands,1598
+2017-06-01,East Midlands,1601
+2017-07-01,East Midlands,1604
+2017-08-01,East Midlands,1607
+2017-09-01,East Midlands,1613
+2017-10-01,East Midlands,1617
+2017-11-01,East Midlands,1622
+2017-12-01,East Midlands,1625
+2018-01-01,East Midlands,1629
+2018-02-01,East Midlands,1633
+2018-03-01,East Midlands,1637
+2018-04-01,East Midlands,1642
+2018-05-01,East Midlands,1653
+2018-06-01,East Midlands,1660
+2018-07-01,East Midlands,1669
+2018-08-01,East Midlands,1676
+2018-09-01,East Midlands,1672
+2018-10-01,East Midlands,1676
+2018-11-01,East Midlands,1681
+2018-12-01,East Midlands,1676
+2019-01-01,East Midlands,1688
+2019-02-01,East Midlands,1695
+2019-03-01,East Midlands,1701
+2019-04-01,East Midlands,1709
+2019-05-01,East Midlands,1710
+2019-06-01,East Midlands,1715
+2019-07-01,East Midlands,1717
+2019-08-01,East Midlands,1719
+2019-09-01,East Midlands,1722
+2019-10-01,East Midlands,1725
+2019-11-01,East Midlands,1725
+2019-12-01,East Midlands,1736
+2020-01-01,East Midlands,1740
+2020-02-01,East Midlands,1753
+2020-03-01,East Midlands,1744
+2020-04-01,East Midlands,1701
+2020-05-01,East Midlands,1710
+2020-06-01,East Midlands,1739
+2020-07-01,East Midlands,1773
+2020-08-01,East Midlands,1791
+2020-09-01,East Midlands,1799
+2020-10-01,East Midlands,1806
+2020-11-01,East Midlands,1815
+2020-12-01,East Midlands,1821
+2021-01-01,East Midlands,1830
+2021-02-01,East Midlands,1839
+2021-03-01,East Midlands,1851
+2021-04-01,East Midlands,1855
+2021-05-01,East Midlands,1861
+2021-06-01,East Midlands,1869
+2021-07-01,East Midlands,1879
+2021-08-01,East Midlands,1887
+2021-09-01,East Midlands,1899
+2021-10-01,East Midlands,1910
+2021-11-01,East Midlands,1915
+2021-12-01,East Midlands,1930
+2022-01-01,East Midlands,1944
+2022-02-01,East Midlands,1954
+2022-03-01,East Midlands,1972
+2022-04-01,East Midlands,1964
+2022-05-01,East Midlands,1980
+2022-06-01,East Midlands,1991
+2022-07-01,East Midlands,2000
+2022-08-01,East Midlands,2015
+2022-09-01,East Midlands,2035
+2022-10-01,East Midlands,2044
+2022-11-01,East Midlands,2075
+2022-12-01,East Midlands,2074
+2023-01-01,East Midlands,2080
+2023-02-01,East Midlands,2089
+2023-03-01,East Midlands,2096
+2023-04-01,East Midlands,2114
+2023-05-01,East Midlands,2134
+2023-06-01,East Midlands,2189
+2023-07-01,East Midlands,2159
+2023-08-01,East Midlands,2160
+2023-09-01,East Midlands,2157
+2023-10-01,East Midlands,2178
+2023-11-01,East Midlands,2206
+2023-12-01,East Midlands,2206
+2024-01-01,East Midlands,2217
+2024-02-01,East Midlands,2230
+2024-03-01,East Midlands,2241
+2024-04-01,East Midlands,2257
+2024-05-01,East Midlands,2270
+2024-06-01,East Midlands,2278
+2024-07-01,East Midlands,2286
+2024-08-01,East Midlands,2295
+2024-09-01,East Midlands,2308
+2024-10-01,East Midlands,2351
+2024-11-01,East Midlands,2347
+2024-12-01,East Midlands,2345
+2025-01-01,East Midlands,2358
+2025-02-01,East Midlands,2366
+2025-03-01,East Midlands,2379
+2025-04-01,East Midlands,2389
+2025-05-01,East Midlands,2397
+2025-06-01,East Midlands,2410
+2025-07-01,East Midlands,2422
+2025-08-01,East Midlands,2453
+2025-09-01,East Midlands,2441
+2025-10-01,East Midlands,2441
+2025-11-01,East Midlands,2439
+2025-12-01,East Midlands,2459
+2026-01-01,East Midlands,2472
+2026-02-01,East Midlands,2491
+2026-03-01,East Midlands,2502
+2026-04-01,East Midlands,2509
+2026-05-01,East Midlands,2517
+2014-07-01,West Midlands,1515
+2014-08-01,West Midlands,1521
+2014-09-01,West Midlands,1521
+2014-10-01,West Midlands,1518
+2014-11-01,West Midlands,1529
+2014-12-01,West Midlands,1534
+2015-01-01,West Midlands,1537
+2015-02-01,West Midlands,1538
+2015-03-01,West Midlands,1540
+2015-04-01,West Midlands,1529
+2015-05-01,West Midlands,1534
+2015-06-01,West Midlands,1537
+2015-07-01,West Midlands,1538
+2015-08-01,West Midlands,1537
+2015-09-01,West Midlands,1531
+2015-10-01,West Midlands,1540
+2015-11-01,West Midlands,1552
+2015-12-01,West Midlands,1541
+2016-01-01,West Midlands,1552
+2016-02-01,West Midlands,1556
+2016-03-01,West Midlands,1560
+2016-04-01,West Midlands,1566
+2016-05-01,West Midlands,1571
+2016-06-01,West Midlands,1570
+2016-07-01,West Midlands,1574
+2016-08-01,West Midlands,1574
+2016-09-01,West Midlands,1581
+2016-10-01,West Midlands,1586
+2016-11-01,West Midlands,1584
+2016-12-01,West Midlands,1587
+2017-01-01,West Midlands,1584
+2017-02-01,West Midlands,1592
+2017-03-01,West Midlands,1601
+2017-04-01,West Midlands,1606
+2017-05-01,West Midlands,1607
+2017-06-01,West Midlands,1611
+2017-07-01,West Midlands,1616
+2017-08-01,West Midlands,1620
+2017-09-01,West Midlands,1624
+2017-10-01,West Midlands,1630
+2017-11-01,West Midlands,1635
+2017-12-01,West Midlands,1640
+2018-01-01,West Midlands,1646
+2018-02-01,West Midlands,1652
+2018-03-01,West Midlands,1649
+2018-04-01,West Midlands,1653
+2018-05-01,West Midlands,1664
+2018-06-01,West Midlands,1673
+2018-07-01,West Midlands,1678
+2018-08-01,West Midlands,1690
+2018-09-01,West Midlands,1677
+2018-10-01,West Midlands,1681
+2018-11-01,West Midlands,1687
+2018-12-01,West Midlands,1687
+2019-01-01,West Midlands,1691
+2019-02-01,West Midlands,1699
+2019-03-01,West Midlands,1709
+2019-04-01,West Midlands,1714
+2019-05-01,West Midlands,1715
+2019-06-01,West Midlands,1719
+2019-07-01,West Midlands,1722
+2019-08-01,West Midlands,1725
+2019-09-01,West Midlands,1728
+2019-10-01,West Midlands,1728
+2019-11-01,West Midlands,1731
+2019-12-01,West Midlands,1741
+2020-01-01,West Midlands,1744
+2020-02-01,West Midlands,1755
+2020-03-01,West Midlands,1743
+2020-04-01,West Midlands,1691
+2020-05-01,West Midlands,1710
+2020-06-01,West Midlands,1737
+2020-07-01,West Midlands,1769
+2020-08-01,West Midlands,1791
+2020-09-01,West Midlands,1798
+2020-10-01,West Midlands,1808
+2020-11-01,West Midlands,1816
+2020-12-01,West Midlands,1821
+2021-01-01,West Midlands,1830
+2021-02-01,West Midlands,1837
+2021-03-01,West Midlands,1847
+2021-04-01,West Midlands,1851
+2021-05-01,West Midlands,1855
+2021-06-01,West Midlands,1861
+2021-07-01,West Midlands,1866
+2021-08-01,West Midlands,1878
+2021-09-01,West Midlands,1889
+2021-10-01,West Midlands,1900
+2021-11-01,West Midlands,1891
+2021-12-01,West Midlands,1918
+2022-01-01,West Midlands,1929
+2022-02-01,West Midlands,1939
+2022-03-01,West Midlands,1962
+2022-04-01,West Midlands,1953
+2022-05-01,West Midlands,1971
+2022-06-01,West Midlands,1985
+2022-07-01,West Midlands,1999
+2022-08-01,West Midlands,2012
+2022-09-01,West Midlands,2029
+2022-10-01,West Midlands,2036
+2022-11-01,West Midlands,2067
+2022-12-01,West Midlands,2061
+2023-01-01,West Midlands,2075
+2023-02-01,West Midlands,2083
+2023-03-01,West Midlands,2092
+2023-04-01,West Midlands,2111
+2023-05-01,West Midlands,2127
+2023-06-01,West Midlands,2185
+2023-07-01,West Midlands,2151
+2023-08-01,West Midlands,2152
+2023-09-01,West Midlands,2153
+2023-10-01,West Midlands,2171
+2023-11-01,West Midlands,2194
+2023-12-01,West Midlands,2203
+2024-01-01,West Midlands,2212
+2024-02-01,West Midlands,2226
+2024-03-01,West Midlands,2238
+2024-04-01,West Midlands,2254
+2024-05-01,West Midlands,2265
+2024-06-01,West Midlands,2272
+2024-07-01,West Midlands,2280
+2024-08-01,West Midlands,2293
+2024-09-01,West Midlands,2291
+2024-10-01,West Midlands,2340
+2024-11-01,West Midlands,2336
+2024-12-01,West Midlands,2347
+2025-01-01,West Midlands,2352
+2025-02-01,West Midlands,2360
+2025-03-01,West Midlands,2372
+2025-04-01,West Midlands,2379
+2025-05-01,West Midlands,2390
+2025-06-01,West Midlands,2405
+2025-07-01,West Midlands,2413
+2025-08-01,West Midlands,2462
+2025-09-01,West Midlands,2431
+2025-10-01,West Midlands,2434
+2025-11-01,West Midlands,2418
+2025-12-01,West Midlands,2445
+2026-01-01,West Midlands,2465
+2026-02-01,West Midlands,2482
+2026-03-01,West Midlands,2492
+2026-04-01,West Midlands,2501
+2026-05-01,West Midlands,2508
+2014-07-01,East,1638
+2014-08-01,East,1645
+2014-09-01,East,1647
+2014-10-01,East,1640
+2014-11-01,East,1647
+2014-12-01,East,1651
+2015-01-01,East,1656
+2015-02-01,East,1661
+2015-03-01,East,1663
+2015-04-01,East,1658
+2015-05-01,East,1658
+2015-06-01,East,1667
+2015-07-01,East,1658
+2015-08-01,East,1661
+2015-09-01,East,1660
+2015-10-01,East,1666
+2015-11-01,East,1675
+2015-12-01,East,1670
+2016-01-01,East,1681
+2016-02-01,East,1687
+2016-03-01,East,1684
+2016-04-01,East,1688
+2016-05-01,East,1691
+2016-06-01,East,1691
+2016-07-01,East,1703
+2016-08-01,East,1698
+2016-09-01,East,1702
+2016-10-01,East,1707
+2016-11-01,East,1706
+2016-12-01,East,1711
+2017-01-01,East,1709
+2017-02-01,East,1715
+2017-03-01,East,1727
+2017-04-01,East,1735
+2017-05-01,East,1738
+2017-06-01,East,1742
+2017-07-01,East,1750
+2017-08-01,East,1749
+2017-09-01,East,1755
+2017-10-01,East,1764
+2017-11-01,East,1765
+2017-12-01,East,1770
+2018-01-01,East,1776
+2018-02-01,East,1776
+2018-03-01,East,1777
+2018-04-01,East,1785
+2018-05-01,East,1802
+2018-06-01,East,1810
+2018-07-01,East,1814
+2018-08-01,East,1827
+2018-09-01,East,1821
+2018-10-01,East,1821
+2018-11-01,East,1828
+2018-12-01,East,1829
+2019-01-01,East,1838
+2019-02-01,East,1848
+2019-03-01,East,1857
+2019-04-01,East,1860
+2019-05-01,East,1864
+2019-06-01,East,1866
+2019-07-01,East,1871
+2019-08-01,East,1877
+2019-09-01,East,1880
+2019-10-01,East,1883
+2019-11-01,East,1886
+2019-12-01,East,1896
+2020-01-01,East,1902
+2020-02-01,East,1917
+2020-03-01,East,1909
+2020-04-01,East,1860
+2020-05-01,East,1862
+2020-06-01,East,1891
+2020-07-01,East,1925
+2020-08-01,East,1956
+2020-09-01,East,1962
+2020-10-01,East,1973
+2020-11-01,East,1985
+2020-12-01,East,1993
+2021-01-01,East,1998
+2021-02-01,East,2005
+2021-03-01,East,2025
+2021-04-01,East,2028
+2021-05-01,East,2028
+2021-06-01,East,2040
+2021-07-01,East,2048
+2021-08-01,East,2064
+2021-09-01,East,2078
+2021-10-01,East,2084
+2021-11-01,East,2090
+2021-12-01,East,2098
+2022-01-01,East,2124
+2022-02-01,East,2127
+2022-03-01,East,2133
+2022-04-01,East,2137
+2022-05-01,East,2154
+2022-06-01,East,2168
+2022-07-01,East,2179
+2022-08-01,East,2193
+2022-09-01,East,2221
+2022-10-01,East,2226
+2022-11-01,East,2258
+2022-12-01,East,2255
+2023-01-01,East,2266
+2023-02-01,East,2271
+2023-03-01,East,2281
+2023-04-01,East,2295
+2023-05-01,East,2322
+2023-06-01,East,2371
+2023-07-01,East,2341
+2023-08-01,East,2341
+2023-09-01,East,2340
+2023-10-01,East,2356
+2023-11-01,East,2384
+2023-12-01,East,2386
+2024-01-01,East,2390
+2024-02-01,East,2404
+2024-03-01,East,2418
+2024-04-01,East,2432
+2024-05-01,East,2439
+2024-06-01,East,2447
+2024-07-01,East,2458
+2024-08-01,East,2466
+2024-09-01,East,2483
+2024-10-01,East,2528
+2024-11-01,East,2518
+2024-12-01,East,2510
+2025-01-01,East,2531
+2025-02-01,East,2542
+2025-03-01,East,2549
+2025-04-01,East,2560
+2025-05-01,East,2567
+2025-06-01,East,2580
+2025-07-01,East,2592
+2025-08-01,East,2626
+2025-09-01,East,2613
+2025-10-01,East,2612
+2025-11-01,East,2609
+2025-12-01,East,2617
+2026-01-01,East,2640
+2026-02-01,East,2655
+2026-03-01,East,2673
+2026-04-01,East,2690
+2026-05-01,East,2692
+2014-07-01,London,1928
+2014-08-01,London,1932
+2014-09-01,London,1932
+2014-10-01,London,1934
+2014-11-01,London,1937
+2014-12-01,London,1944
+2015-01-01,London,1949
+2015-02-01,London,1951
+2015-03-01,London,1947
+2015-04-01,London,1944
+2015-05-01,London,1943
+2015-06-01,London,1947
+2015-07-01,London,1951
+2015-08-01,London,1951
+2015-09-01,London,1956
+2015-10-01,London,1965
+2015-11-01,London,1966
+2015-12-01,London,1970
+2016-01-01,London,1977
+2016-02-01,London,1982
+2016-03-01,London,1990
+2016-04-01,London,1998
+2016-05-01,London,1997
+2016-06-01,London,2007
+2016-07-01,London,2013
+2016-08-01,London,2014
+2016-09-01,London,2019
+2016-10-01,London,2018
+2016-11-01,London,2022
+2016-12-01,London,2020
+2017-01-01,London,2023
+2017-02-01,London,2033
+2017-03-01,London,2036
+2017-04-01,London,2043
+2017-05-01,London,2053
+2017-06-01,London,2057
+2017-07-01,London,2058
+2017-08-01,London,2068
+2017-09-01,London,2072
+2017-10-01,London,2079
+2017-11-01,London,2085
+2017-12-01,London,2093
+2018-01-01,London,2098
+2018-02-01,London,2102
+2018-03-01,London,2106
+2018-04-01,London,2107
+2018-05-01,London,2111
+2018-06-01,London,2119
+2018-07-01,London,2129
+2018-08-01,London,2155
+2018-09-01,London,2140
+2018-10-01,London,2146
+2018-11-01,London,2153
+2018-12-01,London,2155
+2019-01-01,London,2165
+2019-02-01,London,2169
+2019-03-01,London,2180
+2019-04-01,London,2184
+2019-05-01,London,2196
+2019-06-01,London,2196
+2019-07-01,London,2206
+2019-08-01,London,2217
+2019-09-01,London,2212
+2019-10-01,London,2215
+2019-11-01,London,2221
+2019-12-01,London,2233
+2020-01-01,London,2248
+2020-02-01,London,2254
+2020-03-01,London,2224
+2020-04-01,London,2170
+2020-05-01,London,2167
+2020-06-01,London,2188
+2020-07-01,London,2232
+2020-08-01,London,2274
+2020-09-01,London,2308
+2020-10-01,London,2324
+2020-11-01,London,2330
+2020-12-01,London,2338
+2021-01-01,London,2340
+2021-02-01,London,2355
+2021-03-01,London,2360
+2021-04-01,London,2377
+2021-05-01,London,2390
+2021-06-01,London,2410
+2021-07-01,London,2417
+2021-08-01,London,2427
+2021-09-01,London,2453
+2021-10-01,London,2447
+2021-11-01,London,2448
+2021-12-01,London,2464
+2022-01-01,London,2476
+2022-02-01,London,2493
+2022-03-01,London,2519
+2022-04-01,London,2524
+2022-05-01,London,2536
+2022-06-01,London,2542
+2022-07-01,London,2549
+2022-08-01,London,2572
+2022-09-01,London,2616
+2022-10-01,London,2598
+2022-11-01,London,2634
+2022-12-01,London,2642
+2023-01-01,London,2643
+2023-02-01,London,2646
+2023-03-01,London,2660
+2023-04-01,London,2666
+2023-05-01,London,2705
+2023-06-01,London,2747
+2023-07-01,London,2723
+2023-08-01,London,2727
+2023-09-01,London,2729
+2023-10-01,London,2722
+2023-11-01,London,2756
+2023-12-01,London,2773
+2024-01-01,London,2777
+2024-02-01,London,2785
+2024-03-01,London,2793
+2024-04-01,London,2799
+2024-05-01,London,2813
+2024-06-01,London,2823
+2024-07-01,London,2840
+2024-08-01,London,2848
+2024-09-01,London,2858
+2024-10-01,London,2905
+2024-11-01,London,2901
+2024-12-01,London,2897
+2025-01-01,London,2919
+2025-02-01,London,2927
+2025-03-01,London,2929
+2025-04-01,London,2945
+2025-05-01,London,2955
+2025-06-01,London,2965
+2025-07-01,London,2981
+2025-08-01,London,3018
+2025-09-01,London,3003
+2025-10-01,London,2995
+2025-11-01,London,2978
+2025-12-01,London,2998
+2026-01-01,London,3025
+2026-02-01,London,3040
+2026-03-01,London,3050
+2026-04-01,London,3076
+2026-05-01,London,3082
+2014-07-01,South East,1715
+2014-08-01,South East,1718
+2014-09-01,South East,1721
+2014-10-01,South East,1722
+2014-11-01,South East,1726
+2014-12-01,South East,1731
+2015-01-01,South East,1731
+2015-02-01,South East,1738
+2015-03-01,South East,1739
+2015-04-01,South East,1734
+2015-05-01,South East,1732
+2015-06-01,South East,1736
+2015-07-01,South East,1738
+2015-08-01,South East,1739
+2015-09-01,South East,1741
+2015-10-01,South East,1747
+2015-11-01,South East,1755
+2015-12-01,South East,1750
+2016-01-01,South East,1764
+2016-02-01,South East,1765
+2016-03-01,South East,1770
+2016-04-01,South East,1775
+2016-05-01,South East,1776
+2016-06-01,South East,1778
+2016-07-01,South East,1783
+2016-08-01,South East,1785
+2016-09-01,South East,1787
+2016-10-01,South East,1789
+2016-11-01,South East,1789
+2016-12-01,South East,1794
+2017-01-01,South East,1792
+2017-02-01,South East,1802
+2017-03-01,South East,1811
+2017-04-01,South East,1817
+2017-05-01,South East,1820
+2017-06-01,South East,1823
+2017-07-01,South East,1824
+2017-08-01,South East,1829
+2017-09-01,South East,1834
+2017-10-01,South East,1843
+2017-11-01,South East,1844
+2017-12-01,South East,1847
+2018-01-01,South East,1853
+2018-02-01,South East,1855
+2018-03-01,South East,1848
+2018-04-01,South East,1860
+2018-05-01,South East,1877
+2018-06-01,South East,1883
+2018-07-01,South East,1890
+2018-08-01,South East,1904
+2018-09-01,South East,1896
+2018-10-01,South East,1898
+2018-11-01,South East,1904
+2018-12-01,South East,1905
+2019-01-01,South East,1914
+2019-02-01,South East,1924
+2019-03-01,South East,1936
+2019-04-01,South East,1943
+2019-05-01,South East,1940
+2019-06-01,South East,1949
+2019-07-01,South East,1955
+2019-08-01,South East,1957
+2019-09-01,South East,1957
+2019-10-01,South East,1964
+2019-11-01,South East,1967
+2019-12-01,South East,1978
+2020-01-01,South East,1984
+2020-02-01,South East,1996
+2020-03-01,South East,1983
+2020-04-01,South East,1931
+2020-05-01,South East,1934
+2020-06-01,South East,1962
+2020-07-01,South East,1999
+2020-08-01,South East,2033
+2020-09-01,South East,2039
+2020-10-01,South East,2044
+2020-11-01,South East,2057
+2020-12-01,South East,2063
+2021-01-01,South East,2068
+2021-02-01,South East,2083
+2021-03-01,South East,2096
+2021-04-01,South East,2105
+2021-05-01,South East,2110
+2021-06-01,South East,2117
+2021-07-01,South East,2123
+2021-08-01,South East,2135
+2021-09-01,South East,2152
+2021-10-01,South East,2160
+2021-11-01,South East,2161
+2021-12-01,South East,2172
+2022-01-01,South East,2189
+2022-02-01,South East,2196
+2022-03-01,South East,2207
+2022-04-01,South East,2211
+2022-05-01,South East,2230
+2022-06-01,South East,2248
+2022-07-01,South East,2260
+2022-08-01,South East,2276
+2022-09-01,South East,2310
+2022-10-01,South East,2307
+2022-11-01,South East,2328
+2022-12-01,South East,2341
+2023-01-01,South East,2348
+2023-02-01,South East,2353
+2023-03-01,South East,2361
+2023-04-01,South East,2374
+2023-05-01,South East,2403
+2023-06-01,South East,2463
+2023-07-01,South East,2421
+2023-08-01,South East,2426
+2023-09-01,South East,2428
+2023-10-01,South East,2441
+2023-11-01,South East,2458
+2023-12-01,South East,2470
+2024-01-01,South East,2480
+2024-02-01,South East,2493
+2024-03-01,South East,2505
+2024-04-01,South East,2513
+2024-05-01,South East,2524
+2024-06-01,South East,2530
+2024-07-01,South East,2543
+2024-08-01,South East,2543
+2024-09-01,South East,2554
+2024-10-01,South East,2606
+2024-11-01,South East,2594
+2024-12-01,South East,2596
+2025-01-01,South East,2599
+2025-02-01,South East,2610
+2025-03-01,South East,2617
+2025-04-01,South East,2635
+2025-05-01,South East,2643
+2025-06-01,South East,2659
+2025-07-01,South East,2674
+2025-08-01,South East,2703
+2025-09-01,South East,2695
+2025-10-01,South East,2696
+2025-11-01,South East,2686
+2025-12-01,South East,2699
+2026-01-01,South East,2720
+2026-02-01,South East,2739
+2026-03-01,South East,2752
+2026-04-01,South East,2767
+2026-05-01,South East,2767
+2014-07-01,South West,1493
+2014-08-01,South West,1497
+2014-09-01,South West,1500
+2014-10-01,South West,1503
+2014-11-01,South West,1508
+2014-12-01,South West,1511
+2015-01-01,South West,1515
+2015-02-01,South West,1522
+2015-03-01,South West,1528
+2015-04-01,South West,1517
+2015-05-01,South West,1516
+2015-06-01,South West,1522
+2015-07-01,South West,1520
+2015-08-01,South West,1523
+2015-09-01,South West,1522
+2015-10-01,South West,1524
+2015-11-01,South West,1531
+2015-12-01,South West,1526
+2016-01-01,South West,1538
+2016-02-01,South West,1542
+2016-03-01,South West,1546
+2016-04-01,South West,1549
+2016-05-01,South West,1552
+2016-06-01,South West,1551
+2016-07-01,South West,1556
+2016-08-01,South West,1558
+2016-09-01,South West,1562
+2016-10-01,South West,1568
+2016-11-01,South West,1558
+2016-12-01,South West,1568
+2017-01-01,South West,1572
+2017-02-01,South West,1576
+2017-03-01,South West,1585
+2017-04-01,South West,1594
+2017-05-01,South West,1596
+2017-06-01,South West,1596
+2017-07-01,South West,1601
+2017-08-01,South West,1602
+2017-09-01,South West,1607
+2017-10-01,South West,1616
+2017-11-01,South West,1615
+2017-12-01,South West,1627
+2018-01-01,South West,1629
+2018-02-01,South West,1632
+2018-03-01,South West,1632
+2018-04-01,South West,1641
+2018-05-01,South West,1653
+2018-06-01,South West,1659
+2018-07-01,South West,1663
+2018-08-01,South West,1674
+2018-09-01,South West,1668
+2018-10-01,South West,1671
+2018-11-01,South West,1679
+2018-12-01,South West,1682
+2019-01-01,South West,1690
+2019-02-01,South West,1698
+2019-03-01,South West,1706
+2019-04-01,South West,1712
+2019-05-01,South West,1711
+2019-06-01,South West,1716
+2019-07-01,South West,1719
+2019-08-01,South West,1721
+2019-09-01,South West,1720
+2019-10-01,South West,1725
+2019-11-01,South West,1732
+2019-12-01,South West,1742
+2020-01-01,South West,1746
+2020-02-01,South West,1765
+2020-03-01,South West,1748
+2020-04-01,South West,1703
+2020-05-01,South West,1712
+2020-06-01,South West,1741
+2020-07-01,South West,1760
+2020-08-01,South West,1798
+2020-09-01,South West,1806
+2020-10-01,South West,1812
+2020-11-01,South West,1818
+2020-12-01,South West,1825
+2021-01-01,South West,1833
+2021-02-01,South West,1846
+2021-03-01,South West,1857
+2021-04-01,South West,1859
+2021-05-01,South West,1867
+2021-06-01,South West,1866
+2021-07-01,South West,1877
+2021-08-01,South West,1886
+2021-09-01,South West,1901
+2021-10-01,South West,1909
+2021-11-01,South West,1910
+2021-12-01,South West,1929
+2022-01-01,South West,1950
+2022-02-01,South West,1954
+2022-03-01,South West,1975
+2022-04-01,South West,1975
+2022-05-01,South West,1990
+2022-06-01,South West,1999
+2022-07-01,South West,2014
+2022-08-01,South West,2029
+2022-09-01,South West,2049
+2022-10-01,South West,2057
+2022-11-01,South West,2097
+2022-12-01,South West,2089
+2023-01-01,South West,2098
+2023-02-01,South West,2106
+2023-03-01,South West,2116
+2023-04-01,South West,2136
+2023-05-01,South West,2155
+2023-06-01,South West,2209
+2023-07-01,South West,2176
+2023-08-01,South West,2172
+2023-09-01,South West,2175
+2023-10-01,South West,2193
+2023-11-01,South West,2226
+2023-12-01,South West,2215
+2024-01-01,South West,2231
+2024-02-01,South West,2244
+2024-03-01,South West,2255
+2024-04-01,South West,2271
+2024-05-01,South West,2278
+2024-06-01,South West,2283
+2024-07-01,South West,2295
+2024-08-01,South West,2304
+2024-09-01,South West,2309
+2024-10-01,South West,2353
+2024-11-01,South West,2359
+2024-12-01,South West,2357
+2025-01-01,South West,2358
+2025-02-01,South West,2372
+2025-03-01,South West,2380
+2025-04-01,South West,2399
+2025-05-01,South West,2406
+2025-06-01,South West,2416
+2025-07-01,South West,2425
+2025-08-01,South West,2470
+2025-09-01,South West,2444
+2025-10-01,South West,2445
+2025-11-01,South West,2442
+2025-12-01,South West,2470
+2026-01-01,South West,2483
+2026-02-01,South West,2498
+2026-03-01,South West,2512
+2026-04-01,South West,2520
+2026-05-01,South West,2526
+2014-07-01,Wales,1498
+2014-08-01,Wales,1497
+2014-09-01,Wales,1501
+2014-10-01,Wales,1498
+2014-11-01,Wales,1510
+2014-12-01,Wales,1521
+2015-01-01,Wales,1524
+2015-02-01,Wales,1519
+2015-03-01,Wales,1520
+2015-04-01,Wales,1516
+2015-05-01,Wales,1514
+2015-06-01,Wales,1522
+2015-07-01,Wales,1519
+2015-08-01,Wales,1519
+2015-09-01,Wales,1517
+2015-10-01,Wales,1521
+2015-11-01,Wales,1530
+2015-12-01,Wales,1527
+2016-01-01,Wales,1532
+2016-02-01,Wales,1533
+2016-03-01,Wales,1540
+2016-04-01,Wales,1543
+2016-05-01,Wales,1555
+2016-06-01,Wales,1549
+2016-07-01,Wales,1550
+2016-08-01,Wales,1553
+2016-09-01,Wales,1556
+2016-10-01,Wales,1560
+2016-11-01,Wales,1560
+2016-12-01,Wales,1566
+2017-01-01,Wales,1567
+2017-02-01,Wales,1574
+2017-03-01,Wales,1580
+2017-04-01,Wales,1586
+2017-05-01,Wales,1586
+2017-06-01,Wales,1587
+2017-07-01,Wales,1594
+2017-08-01,Wales,1596
+2017-09-01,Wales,1600
+2017-10-01,Wales,1602
+2017-11-01,Wales,1604
+2017-12-01,Wales,1611
+2018-01-01,Wales,1617
+2018-02-01,Wales,1622
+2018-03-01,Wales,1616
+2018-04-01,Wales,1620
+2018-05-01,Wales,1630
+2018-06-01,Wales,1645
+2018-07-01,Wales,1647
+2018-08-01,Wales,1651
+2018-09-01,Wales,1650
+2018-10-01,Wales,1664
+2018-11-01,Wales,1681
+2018-12-01,Wales,1667
+2019-01-01,Wales,1672
+2019-02-01,Wales,1676
+2019-03-01,Wales,1692
+2019-04-01,Wales,1696
+2019-05-01,Wales,1686
+2019-06-01,Wales,1702
+2019-07-01,Wales,1707
+2019-08-01,Wales,1704
+2019-09-01,Wales,1709
+2019-10-01,Wales,1711
+2019-11-01,Wales,1716
+2019-12-01,Wales,1726
+2020-01-01,Wales,1727
+2020-02-01,Wales,1744
+2020-03-01,Wales,1732
+2020-04-01,Wales,1685
+2020-05-01,Wales,1690
+2020-06-01,Wales,1734
+2020-07-01,Wales,1752
+2020-08-01,Wales,1781
+2020-09-01,Wales,1809
+2020-10-01,Wales,1812
+2020-11-01,Wales,1819
+2020-12-01,Wales,1815
+2021-01-01,Wales,1823
+2021-02-01,Wales,1828
+2021-03-01,Wales,1838
+2021-04-01,Wales,1851
+2021-05-01,Wales,1870
+2021-06-01,Wales,1865
+2021-07-01,Wales,1878
+2021-08-01,Wales,1884
+2021-09-01,Wales,1883
+2021-10-01,Wales,1878
+2021-11-01,Wales,1883
+2021-12-01,Wales,1903
+2022-01-01,Wales,1928
+2022-02-01,Wales,1929
+2022-03-01,Wales,1951
+2022-04-01,Wales,1934
+2022-05-01,Wales,1966
+2022-06-01,Wales,2012
+2022-07-01,Wales,1976
+2022-08-01,Wales,1993
+2022-09-01,Wales,2021
+2022-10-01,Wales,2029
+2022-11-01,Wales,2093
+2022-12-01,Wales,2057
+2023-01-01,Wales,2059
+2023-02-01,Wales,2072
+2023-03-01,Wales,2090
+2023-04-01,Wales,2104
+2023-05-01,Wales,2126
+2023-06-01,Wales,2161
+2023-07-01,Wales,2171
+2023-08-01,Wales,2141
+2023-09-01,Wales,2145
+2023-10-01,Wales,2167
+2023-11-01,Wales,2226
+2023-12-01,Wales,2198
+2024-01-01,Wales,2205
+2024-02-01,Wales,2221
+2024-03-01,Wales,2225
+2024-04-01,Wales,2245
+2024-05-01,Wales,2248
+2024-06-01,Wales,2264
+2024-07-01,Wales,2269
+2024-08-01,Wales,2275
+2024-09-01,Wales,2285
+2024-10-01,Wales,2328
+2024-11-01,Wales,2394
+2024-12-01,Wales,2340
+2025-01-01,Wales,2350
+2025-02-01,Wales,2356
+2025-03-01,Wales,2365
+2025-04-01,Wales,2370
+2025-05-01,Wales,2375
+2025-06-01,Wales,2391
+2025-07-01,Wales,2409
+2025-08-01,Wales,2449
+2025-09-01,Wales,2431
+2025-10-01,Wales,2427
+2025-11-01,Wales,2431
+2025-12-01,Wales,2449
+2026-01-01,Wales,2466
+2026-02-01,Wales,2481
+2026-03-01,Wales,2493
+2026-04-01,Wales,2497
+2026-05-01,Wales,2497
+2014-07-01,Scotland,1647
+2014-08-01,Scotland,1650
+2014-09-01,Scotland,1649
+2014-10-01,Scotland,1649
+2014-11-01,Scotland,1653
+2014-12-01,Scotland,1658
+2015-01-01,Scotland,1658
+2015-02-01,Scotland,1661
+2015-03-01,Scotland,1657
+2015-04-01,Scotland,1653
+2015-05-01,Scotland,1656
+2015-06-01,Scotland,1655
+2015-07-01,Scotland,1661
+2015-08-01,Scotland,1655
+2015-09-01,Scotland,1658
+2015-10-01,Scotland,1669
+2015-11-01,Scotland,1681
+2015-12-01,Scotland,1675
+2016-01-01,Scotland,1679
+2016-02-01,Scotland,1680
+2016-03-01,Scotland,1681
+2016-04-01,Scotland,1689
+2016-05-01,Scotland,1685
+2016-06-01,Scotland,1688
+2016-07-01,Scotland,1691
+2016-08-01,Scotland,1690
+2016-09-01,Scotland,1695
+2016-10-01,Scotland,1697
+2016-11-01,Scotland,1695
+2016-12-01,Scotland,1702
+2017-01-01,Scotland,1703
+2017-02-01,Scotland,1701
+2017-03-01,Scotland,1711
+2017-04-01,Scotland,1714
+2017-05-01,Scotland,1720
+2017-06-01,Scotland,1723
+2017-07-01,Scotland,1722
+2017-08-01,Scotland,1731
+2017-09-01,Scotland,1740
+2017-10-01,Scotland,1736
+2017-11-01,Scotland,1740
+2017-12-01,Scotland,1742
+2018-01-01,Scotland,1745
+2018-02-01,Scotland,1747
+2018-03-01,Scotland,1756
+2018-04-01,Scotland,1749
+2018-05-01,Scotland,1759
+2018-06-01,Scotland,1769
+2018-07-01,Scotland,1775
+2018-08-01,Scotland,1791
+2018-09-01,Scotland,1780
+2018-10-01,Scotland,1786
+2018-11-01,Scotland,1802
+2018-12-01,Scotland,1791
+2019-01-01,Scotland,1800
+2019-02-01,Scotland,1803
+2019-03-01,Scotland,1861
+2019-04-01,Scotland,1833
+2019-05-01,Scotland,1841
+2019-06-01,Scotland,1840
+2019-07-01,Scotland,1851
+2019-08-01,Scotland,1857
+2019-09-01,Scotland,1858
+2019-10-01,Scotland,1859
+2019-11-01,Scotland,1864
+2019-12-01,Scotland,1866
+2020-01-01,Scotland,1873
+2020-02-01,Scotland,1874
+2020-03-01,Scotland,1873
+2020-04-01,Scotland,1822
+2020-05-01,Scotland,1834
+2020-06-01,Scotland,1855
+2020-07-01,Scotland,1900
+2020-08-01,Scotland,1916
+2020-09-01,Scotland,1935
+2020-10-01,Scotland,1943
+2020-11-01,Scotland,1939
+2020-12-01,Scotland,1953
+2021-01-01,Scotland,1964
+2021-02-01,Scotland,1980
+2021-03-01,Scotland,1980
+2021-04-01,Scotland,2002
+2021-05-01,Scotland,2003
+2021-06-01,Scotland,2005
+2021-07-01,Scotland,2018
+2021-08-01,Scotland,2033
+2021-09-01,Scotland,2025
+2021-10-01,Scotland,2038
+2021-11-01,Scotland,2033
+2021-12-01,Scotland,2069
+2022-01-01,Scotland,2094
+2022-02-01,Scotland,2070
+2022-03-01,Scotland,2079
+2022-04-01,Scotland,2080
+2022-05-01,Scotland,2097
+2022-06-01,Scotland,2115
+2022-07-01,Scotland,2125
+2022-08-01,Scotland,2126
+2022-09-01,Scotland,2145
+2022-10-01,Scotland,2165
+2022-11-01,Scotland,2228
+2022-12-01,Scotland,2201
+2023-01-01,Scotland,2230
+2023-02-01,Scotland,2268
+2023-03-01,Scotland,2248
+2023-04-01,Scotland,2280
+2023-05-01,Scotland,2274
+2023-06-01,Scotland,2293
+2023-07-01,Scotland,2295
+2023-08-01,Scotland,2304
+2023-09-01,Scotland,2323
+2023-10-01,Scotland,2321
+2023-11-01,Scotland,2364
+2023-12-01,Scotland,2365
+2024-01-01,Scotland,2359
+2024-02-01,Scotland,2363
+2024-03-01,Scotland,2389
+2024-04-01,Scotland,2389
+2024-05-01,Scotland,2413
+2024-06-01,Scotland,2415
+2024-07-01,Scotland,2425
+2024-08-01,Scotland,2433
+2024-09-01,Scotland,2443
+2024-10-01,Scotland,2488
+2024-11-01,Scotland,2538
+2024-12-01,Scotland,2476
+2025-01-01,Scotland,2490
+2025-02-01,Scotland,2510
+2025-03-01,Scotland,2520
+2025-04-01,Scotland,2519
+2025-05-01,Scotland,2534
+2025-06-01,Scotland,2550
+2025-07-01,Scotland,2574
+2025-08-01,Scotland,2589
+2025-09-01,Scotland,2591
+2025-10-01,Scotland,2589
+2025-11-01,Scotland,2571
+2025-12-01,Scotland,2587
+2026-01-01,Scotland,2608
+2026-02-01,Scotland,2617
+2026-03-01,Scotland,2634
+2026-04-01,Scotland,2657
+2026-05-01,Scotland,2669
+2014-07-01,Northern Ireland,1488
+2014-08-01,Northern Ireland,1486
+2014-09-01,Northern Ireland,1493
+2014-10-01,Northern Ireland,1487
+2014-11-01,Northern Ireland,1503
+2014-12-01,Northern Ireland,1515
+2015-01-01,Northern Ireland,1502
+2015-02-01,Northern Ireland,1495
+2015-03-01,Northern Ireland,1503
+2015-04-01,Northern Ireland,1497
+2015-05-01,Northern Ireland,1498
+2015-06-01,Northern Ireland,1494
+2015-07-01,Northern Ireland,1488
+2015-08-01,Northern Ireland,1492
+2015-09-01,Northern Ireland,1493
+2015-10-01,Northern Ireland,1496
+2015-11-01,Northern Ireland,1499
+2015-12-01,Northern Ireland,1496
+2016-01-01,Northern Ireland,1506
+2016-02-01,Northern Ireland,1509
+2016-03-01,Northern Ireland,1512
+2016-04-01,Northern Ireland,1513
+2016-05-01,Northern Ireland,1517
+2016-06-01,Northern Ireland,1515
+2016-07-01,Northern Ireland,1519
+2016-08-01,Northern Ireland,1529
+2016-09-01,Northern Ireland,1526
+2016-10-01,Northern Ireland,1528
+2016-11-01,Northern Ireland,1529
+2016-12-01,Northern Ireland,1532
+2017-01-01,Northern Ireland,1542
+2017-02-01,Northern Ireland,1533
+2017-03-01,Northern Ireland,1541
+2017-04-01,Northern Ireland,1545
+2017-05-01,Northern Ireland,1545
+2017-06-01,Northern Ireland,1553
+2017-07-01,Northern Ireland,1559
+2017-08-01,Northern Ireland,1558
+2017-09-01,Northern Ireland,1563
+2017-10-01,Northern Ireland,1568
+2017-11-01,Northern Ireland,1570
+2017-12-01,Northern Ireland,1580
+2018-01-01,Northern Ireland,1572
+2018-02-01,Northern Ireland,1588
+2018-03-01,Northern Ireland,1582
+2018-04-01,Northern Ireland,1591
+2018-05-01,Northern Ireland,1601
+2018-06-01,Northern Ireland,1608
+2018-07-01,Northern Ireland,1618
+2018-08-01,Northern Ireland,1617
+2018-09-01,Northern Ireland,1625
+2018-10-01,Northern Ireland,1630
+2018-11-01,Northern Ireland,1633
+2018-12-01,Northern Ireland,1642
+2019-01-01,Northern Ireland,1649
+2019-02-01,Northern Ireland,1686
+2019-03-01,Northern Ireland,1658
+2019-04-01,Northern Ireland,1665
+2019-05-01,Northern Ireland,1674
+2019-06-01,Northern Ireland,1678
+2019-07-01,Northern Ireland,1681
+2019-08-01,Northern Ireland,1684
+2019-09-01,Northern Ireland,1691
+2019-10-01,Northern Ireland,1692
+2019-11-01,Northern Ireland,1687
+2019-12-01,Northern Ireland,1683
+2020-01-01,Northern Ireland,1701
+2020-02-01,Northern Ireland,1710
+2020-03-01,Northern Ireland,1745
+2020-04-01,Northern Ireland,1651
+2020-05-01,Northern Ireland,1666
+2020-06-01,Northern Ireland,1712
+2020-07-01,Northern Ireland,1741
+2020-08-01,Northern Ireland,1759
+2020-09-01,Northern Ireland,1768
+2020-10-01,Northern Ireland,1779
+2020-11-01,Northern Ireland,1785
+2020-12-01,Northern Ireland,1788
+2021-01-01,Northern Ireland,1788
+2021-02-01,Northern Ireland,1790
+2021-03-01,Northern Ireland,1793
+2021-04-01,Northern Ireland,1806
+2021-05-01,Northern Ireland,1810
+2021-06-01,Northern Ireland,1824
+2021-07-01,Northern Ireland,1883
+2021-08-01,Northern Ireland,1830
+2021-09-01,Northern Ireland,1851
+2021-10-01,Northern Ireland,1860
+2021-11-01,Northern Ireland,1858
+2021-12-01,Northern Ireland,1903
+2022-01-01,Northern Ireland,1945
+2022-02-01,Northern Ireland,1914
+2022-03-01,Northern Ireland,1924
+2022-04-01,Northern Ireland,1927
+2022-05-01,Northern Ireland,1939
+2022-06-01,Northern Ireland,1946
+2022-07-01,Northern Ireland,1958
+2022-08-01,Northern Ireland,1975
+2022-09-01,Northern Ireland,1968
+2022-10-01,Northern Ireland,1991
+2022-11-01,Northern Ireland,2007
+2022-12-01,Northern Ireland,2014
+2023-01-01,Northern Ireland,2048
+2023-02-01,Northern Ireland,2051
+2023-03-01,Northern Ireland,2104
+2023-04-01,Northern Ireland,2056
+2023-05-01,Northern Ireland,2061
+2023-06-01,Northern Ireland,2086
+2023-07-01,Northern Ireland,2094
+2023-08-01,Northern Ireland,2094
+2023-09-01,Northern Ireland,2098
+2023-10-01,Northern Ireland,2113
+2023-11-01,Northern Ireland,2124
+2023-12-01,Northern Ireland,2143
+2024-01-01,Northern Ireland,2137
+2024-02-01,Northern Ireland,2155
+2024-03-01,Northern Ireland,2165
+2024-04-01,Northern Ireland,2190
+2024-05-01,Northern Ireland,2220
+2024-06-01,Northern Ireland,2335
+2024-07-01,Northern Ireland,2242
+2024-08-01,Northern Ireland,2315
+2024-09-01,Northern Ireland,2253
+2024-10-01,Northern Ireland,2272
+2024-11-01,Northern Ireland,2292
+2024-12-01,Northern Ireland,2287
+2025-01-01,Northern Ireland,2295
+2025-02-01,Northern Ireland,2310
+2025-03-01,Northern Ireland,2425
+2025-04-01,Northern Ireland,2389
+2025-05-01,Northern Ireland,2368
+2025-06-01,Northern Ireland,2365
+2025-07-01,Northern Ireland,2369
+2025-08-01,Northern Ireland,2378
+2025-09-01,Northern Ireland,2413
+2025-10-01,Northern Ireland,2405
+2025-11-01,Northern Ireland,2406
+2025-12-01,Northern Ireland,2399
+2026-01-01,Northern Ireland,2439
+2026-02-01,Northern Ireland,2503
+2026-03-01,Northern Ireland,2454
+2026-04-01,Northern Ireland,2462
+2026-05-01,Northern Ireland,2462
+2014-07-01,UK,1598
+2014-08-01,UK,1601
+2014-09-01,UK,1604
+2014-10-01,UK,1601
+2014-11-01,UK,1611
+2014-12-01,UK,1617
+2015-01-01,UK,1618
+2015-02-01,UK,1620
+2015-03-01,UK,1622
+2015-04-01,UK,1613
+2015-05-01,UK,1616
+2015-06-01,UK,1618
+2015-07-01,UK,1617
+2015-08-01,UK,1620
+2015-09-01,UK,1620
+2015-10-01,UK,1625
+2015-11-01,UK,1635
+2015-12-01,UK,1629
+2016-01-01,UK,1640
+2016-02-01,UK,1643
+2016-03-01,UK,1646
+2016-04-01,UK,1651
+2016-05-01,UK,1655
+2016-06-01,UK,1656
+2016-07-01,UK,1660
+2016-08-01,UK,1661
+2016-09-01,UK,1664
+2016-10-01,UK,1669
+2016-11-01,UK,1668
+2016-12-01,UK,1671
+2017-01-01,UK,1672
+2017-02-01,UK,1678
+2017-03-01,UK,1684
+2017-04-01,UK,1690
+2017-05-01,UK,1691
+2017-06-01,UK,1692
+2017-07-01,UK,1698
+2017-08-01,UK,1700
+2017-09-01,UK,1705
+2017-10-01,UK,1711
+2017-11-01,UK,1716
+2017-12-01,UK,1721
+2018-01-01,UK,1726
+2018-02-01,UK,1728
+2018-03-01,UK,1728
+2018-04-01,UK,1732
+2018-05-01,UK,1747
+2018-06-01,UK,1754
+2018-07-01,UK,1760
+2018-08-01,UK,1776
+2018-09-01,UK,1767
+2018-10-01,UK,1772
+2018-11-01,UK,1777
+2018-12-01,UK,1779
+2019-01-01,UK,1788
+2019-02-01,UK,1791
+2019-03-01,UK,1803
+2019-04-01,UK,1808
+2019-05-01,UK,1810
+2019-06-01,UK,1815
+2019-07-01,UK,1821
+2019-08-01,UK,1826
+2019-09-01,UK,1827
+2019-10-01,UK,1830
+2019-11-01,UK,1835
+2019-12-01,UK,1845
+2020-01-01,UK,1849
+2020-02-01,UK,1863
+2020-03-01,UK,1846
+2020-04-01,UK,1794
+2020-05-01,UK,1801
+2020-06-01,UK,1829
+2020-07-01,UK,1859
+2020-08-01,UK,1895
+2020-09-01,UK,1906
+2020-10-01,UK,1915
+2020-11-01,UK,1925
+2020-12-01,UK,1928
+2021-01-01,UK,1935
+2021-02-01,UK,1944
+2021-03-01,UK,1949
+2021-04-01,UK,1959
+2021-05-01,UK,1968
+2021-06-01,UK,1975
+2021-07-01,UK,1984
+2021-08-01,UK,1999
+2021-09-01,UK,2010
+2021-10-01,UK,2019
+2021-11-01,UK,2023
+2021-12-01,UK,2035
+2022-01-01,UK,2052
+2022-02-01,UK,2055
+2022-03-01,UK,2072
+2022-04-01,UK,2072
+2022-05-01,UK,2088
+2022-06-01,UK,2102
+2022-07-01,UK,2110
+2022-08-01,UK,2124
+2022-09-01,UK,2148
+2022-10-01,UK,2161
+2022-11-01,UK,2199
+2022-12-01,UK,2189
+2023-01-01,UK,2200
+2023-02-01,UK,2208
+2023-03-01,UK,2210
+2023-04-01,UK,2231
+2023-05-01,UK,2251
+2023-06-01,UK,2298
+2023-07-01,UK,2277
+2023-08-01,UK,2280
+2023-09-01,UK,2275
+2023-10-01,UK,2292
+2023-11-01,UK,2333
+2023-12-01,UK,2328
+2024-01-01,UK,2333
+2024-02-01,UK,2344
+2024-03-01,UK,2353
+2024-04-01,UK,2366
+2024-05-01,UK,2377
+2024-06-01,UK,2389
+2024-07-01,UK,2395
+2024-08-01,UK,2411
+2024-09-01,UK,2412
+2024-10-01,UK,2465
+2024-11-01,UK,2479
+2024-12-01,UK,2459
+2025-01-01,UK,2468
+2025-02-01,UK,2479
+2025-03-01,UK,2490
+2025-04-01,UK,2503
+2025-05-01,UK,2511
+2025-06-01,UK,2523
+2025-07-01,UK,2534
+2025-08-01,UK,2568
+2025-09-01,UK,2548
+2025-10-01,UK,2551
+2025-11-01,UK,2553
+2025-12-01,UK,2562
+2026-01-01,UK,2580
+2026-02-01,UK,2598
+2026-03-01,UK,2608
+2026-04-01,UK,2624
+2026-05-01,UK,2626
