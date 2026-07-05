@@ -1,5 +1,8 @@
-<h2>Requirements</h2>
-<p>pandas</p>
-<p>matplotlib</p>
-<p>streamlit</p>
-<p>plotly</p>
+Requirements:
+
+pandas
+matplotlib
+plotly
+streamlit
+jupyter
+openpyxl

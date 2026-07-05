@@ -1,0 +1,27 @@
+# Mac system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+
+# Raw data files
+data/raw/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Streamlit local settings
+.streamlit/secrets.toml
