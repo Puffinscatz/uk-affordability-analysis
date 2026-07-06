@@ -1,26 +1,11 @@
-# UK Affordability Analysis
+# UK Housing Affordability Analysis
 
-This project explores whether housing affordability has worsened across UK regions by comparing rents, wages, inflation and house prices.
+## Project Overview
 
-## Project Questions
+This project explores whether housing affordability has worsened across UK regions by comparing private rents with median monthly pay.
 
-- Have rents grown faster than wages?
-- Which UK regions have become least affordable?
-- How has affordability changed over time?
+The main affordability measure used is:
 
-## Tools Used
+```text
+Rent-to-pay ratio = average monthly rent / median monthly pay * 100
 
-- Python
-- pandas
-- matplotlib / plotly
-- SQL
-- Streamlit
-
-## Project Structure
-
-- `data/raw/` - original downloaded datasets
-- `data/processed/` - cleaned datasets
-- `notebooks/` - data cleaning and analysis notebooks
-- `outputs/charts/` - saved charts
-- `app.py` - Streamlit dashboard
-- `sql/` - SQL queries
