@@ -8,7 +8,6 @@ The main affordability measure used is:
 
 ```text
 Rent-to-pay ratio = average monthly rent / median monthly pay * 100
-```
 
 uk-affordability-analysis/
 │
@@ -30,3 +29,4 @@ uk-affordability-analysis/
 │
 └── sql/
     └── analysis_queries.sql
+
