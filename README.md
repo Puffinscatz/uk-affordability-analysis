@@ -9,3 +9,23 @@ The main affordability measure used is:
 ```text
 Rent-to-pay ratio = average monthly rent / median monthly pay * 100
 
+uk-affordability-analysis/
+│
+├── app.py
+├── README.md
+├── requirements.txt
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   └── 03_exploratory_analysis.ipynb
+│
+├── outputs/
+│   └── charts/
+│
+└── sql/
+    └── analysis_queries.sql
