@@ -69,6 +69,7 @@ pip install -r requirements.txt
 - London has the highest rent-to-pay ratio in the latest period, showing the greatest affordability pressure.
 - Regional rent levels vary significantly, but comparing rent with median monthly pay gives a clearer affordability picture than rent alone.
 - The rent-to-pay ratio has changed over time, suggesting that affordability pressure has not moved evenly across all UK regions.
+- A positive change means rent has become a larger share of gross median monthly pay since January 2020.
 
 ## Conclusions
 
