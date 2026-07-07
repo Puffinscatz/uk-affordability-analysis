@@ -61,7 +61,13 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
-
-
 ```
+
+## Key Findings
+
+- London has the highest rent-to-pay ratio in the latest period, showing the greatest affordability pressure.
+- Regional rent levels vary significantly, but comparing rent with median monthly pay gives a clearer affordability picture than rent alone.
+- The rent-to-pay ratio has changed over time, suggesting that affordability pressure has not moved evenly across all UK regions.
+
+## Preview of dashboard
 ![Dashboard preview](outputs/charts/dashboard_screenshot.png)
