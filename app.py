@@ -27,7 +27,7 @@ st.info(
 
 # Load data
 
-DATA_PATH = Path("data/processed/affordability_data.csv")
+DATA_PATH = Path("data/processed/affordability_data_with_inflation.csv")
 
 if not DATA_PATH.exists():
     st.error("The affordability data file could not be found.")
@@ -180,6 +180,33 @@ st.download_button(
     file_name="affordability_data.csv",
     mime="text/csv"
 )
+
+# Inflation adjusted rent and pay
+
+st.subheader("Inflation-adjusted rent and pay")
+
+real_chart_df = region_df.rename(columns={
+    "real_rent": "Inflation-adjusted rent",
+    "real_pay": "Inflation-adjusted median pay"
+})
+
+fig_real = px.line(
+    real_chart_df,
+    x="time_period",
+    y=["Inflation-adjusted rent", "Inflation-adjusted median pay"],
+    title=f"Inflation-adjusted rent and pay in {selected_region}",
+    labels={
+        "time_period": "Date",
+        "value": "£ in latest-period prices",
+        "variable": "Metric"
+    }
+)
+
+st.caption(
+    "Values are adjusted using the CPIH all-items index and expressed in latest-period prices."
+)
+
+st.plotly_chart(fig_real, use_container_width=True)
 
 # Methodology
 
