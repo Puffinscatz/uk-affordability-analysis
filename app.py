@@ -144,6 +144,7 @@ fig_latest = px.bar(
 st.plotly_chart(fig_latest, use_container_width=True)
 
 # Regional ranking
+
 st.subheader("Latest regional ranking")
 
 regional_ranking = latest_df[
@@ -179,6 +180,109 @@ st.download_button(
     data=csv,
     file_name="affordability_data.csv",
     mime="text/csv"
+)
+
+# Post-2020 affordability change
+
+st.subheader("Change in affordability since 2020")
+
+baseline_date = pd.Timestamp("2020-01-01")
+
+baseline_df = (
+    df[df["time_period"] == baseline_date]
+    [
+        [
+            "area_name",
+            "rental_price",
+            "median_monthly_pay",
+            "rent_to_pay_percent"
+        ]
+    ]
+    .rename(columns={
+        "rental_price": "rent_2020",
+        "median_monthly_pay": "pay_2020",
+        "rent_to_pay_percent": "rent_to_pay_2020"
+    })
+)
+
+latest_by_region = (
+    df.sort_values("time_period")
+    .groupby("area_name")
+    .tail(1)
+    [
+        [
+            "area_name",
+            "time_period",
+            "rental_price",
+            "median_monthly_pay",
+            "rent_to_pay_percent"
+        ]
+    ]
+    .rename(columns={
+        "time_period": "latest_date",
+        "rental_price": "latest_rent",
+        "median_monthly_pay": "latest_pay",
+        "rent_to_pay_percent": "latest_rent_to_pay"
+    })
+)
+
+post_2020 = latest_by_region.merge(
+    baseline_df,
+    on="area_name",
+    how="inner"
+)
+
+post_2020["rent_growth_since_2020"] = (
+    (post_2020["latest_rent"] - post_2020["rent_2020"])
+    / post_2020["rent_2020"]
+) * 100
+
+post_2020["pay_growth_since_2020"] = (
+    (post_2020["latest_pay"] - post_2020["pay_2020"])
+    / post_2020["pay_2020"]
+) * 100
+
+post_2020["affordability_change_since_2020_pp"] = (
+    post_2020["latest_rent_to_pay"]
+    - post_2020["rent_to_pay_2020"]
+)
+
+post_2020 = post_2020.sort_values(
+    "affordability_change_since_2020_pp",
+    ascending=False
+)
+
+fig_post_2020 = px.bar(
+    post_2020,
+    x="area_name",
+    y="affordability_change_since_2020_pp",
+    title="Change in rent-to-pay ratio since January 2020",
+    labels={
+        "area_name": "region",
+        "affordability_change_since_2020_pp": "Change in rent-to-pay ratio, percentage points"
+    }
+)
+
+st.plotly_chart(fig_post_2020, use_container_width=True)
+
+post_2020_display = post_2020[
+    [
+        "area_name",
+        "rent_growth_since_2020",
+        "pay_growth_since_2020",
+        "affordability_change_since_2020_pp"
+    ]
+].rename(columns={
+    "area_name": "Region",
+    "rent_growth_since_2020": "Rent growth since 2020 (%)",
+    "pay_growth_since_2020": "Pay growth since 2020 (%)",
+    "affordability_change_since_2020_pp": "Affordability change since 2020 (pp)"
+})
+
+st.dataframe(
+    post_2020_display.round(1),
+    use_container_width=True,
+    hide_index=True
 )
 
 # Inflation adjusted rent and pay
