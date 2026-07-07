@@ -18,6 +18,13 @@ st.write(
     """
 )
 
+st.info(
+    """
+    Pay data refers to gross median monthly pay, not take-home pay after tax or deductions.
+    Rent-to-pay ratio is calculated as average monthly rent divided by gross median monthly pay.
+    """
+)
+
 # Load data
 
 DATA_PATH = Path("data/processed/affordability_data.csv")
@@ -136,6 +143,58 @@ fig_latest = px.bar(
 
 st.plotly_chart(fig_latest, use_container_width=True)
 
+# Regional ranking
+st.subheader("Latest regional ranking")
+
+regional_ranking = latest_df[
+    [
+        "area_name",
+        "rental_price",
+        "median_monthly_pay",
+        "rent_to_pay_percent"
+    ]
+].copy()
+
+regional_ranking = regional_ranking.rename(columns = {
+    "area_name": "Region",
+    "rental_price": "Average monthly rent (£)",
+    "median_monthly_pay": "Median monthly pay (£)",
+    "rent_to_pay_percent": "Rent as % of pay"
+})
+
+regional_ranking["Average monthly rent (£)"] = regional_ranking["Average monthly rent (£)"].round(0)
+regional_ranking["Median monthly pay (£)"] = regional_ranking["Median monthly pay (£)"].round(0)
+regional_ranking["Rent as % of pay"] = regional_ranking["Rent as % of pay"].round(1)
+
+st.dataframe(
+    regional_ranking,
+    use_container_width=True,
+    hide_index=True
+)
+
+csv = df.to_csv(index=False)
+
+st.download_button(
+    label="Download affordability dataset",
+    data=csv,
+    file_name="affordability_data.csv",
+    mime="text/csv"
+)
+
+# Methodology
+
+st.subheader("Methodology")
+
+st.write(
+    """
+    The analysis combines ONS private rent data with ONS PAYE Real Time Information
+    median pay data. The key affordability metric is calculated as:
+
+    **Rent-to-pay ratio = average monthly rent / gross median monthly pay × 100**
+
+    This shows the share of gross median monthly pay represented by average monthly rent.
+    """
+)
 
 # Summary
 st.subheader("Summary")
@@ -149,3 +208,4 @@ st.write(
     meaning average private rent is equivalent to this share of gross median monthly pay.
     """
 )
+
